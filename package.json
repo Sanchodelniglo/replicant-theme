@@ -43,9 +43,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Replicant",
+        "label": "Replicant - Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/replicant-color-theme.json"
+      },
+      {
+        "label": "Replicant - Light",
+        "uiTheme": "vs",
+        "path": "./themes/replicant-light-color-theme.json"
       }
     ]
   }
