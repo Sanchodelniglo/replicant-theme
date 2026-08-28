@@ -14,6 +14,10 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 > only retunes it for contrast. If you like how it looks, that's their eye, not mine.
 > See [NOTICE.md](NOTICE.md).
 
+## Screenshot
+
+![Replicant](https://raw.githubusercontent.com/Sanchodelniglo/replicant-theme/main/screenshots/dark.png)
+
 ## What the retune changes
 
 - **Contrast raised to WCAG AA** — foregrounds lifted or dimmed against the editor background so no token pair sits below 4.5:1.
