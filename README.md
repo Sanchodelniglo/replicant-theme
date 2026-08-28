@@ -25,7 +25,7 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 git clone https://github.com/Sanchodelniglo/replicant-theme
 cd replicant-theme
 npx @vscode/vsce package
-code --install-extension replicant-theme-0.3.0.vsix
+code --install-extension replicant-theme-0.0.1.vsix
 ```
 
 ### Live-editing the theme
@@ -50,6 +50,6 @@ rules are theirs. Go install
 [the original](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
 and rate it.
 
-The upstream extension ships no LICENSE file, so Replicant is **local use only**
-until the author grants permission to republish. Details and the retune list:
-[NOTICE.md](NOTICE.md).
+The upstream extension ships no LICENSE file, so Replicant is **source-only** —
+not on the Marketplace until the author grants permission to republish. Details
+and the retune list: [NOTICE.md](NOTICE.md).

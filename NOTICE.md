@@ -1,38 +1,37 @@
-# Notice & attribution
+# About this theme, and whose it really is
 
-Replicant is a **derivative work**. It is not an original theme.
+Replicant is somebody else's theme with my fingerprints on it.
 
-## Original
+## The theme this comes from
 
-**punk-runner** — by **TheEdgesofBen**
-<https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner>
+The theme is **punk-runner**, by **TheEdgesofBen**.
 
-Version 0.0.5 of that extension is the direct ancestor of everything Replicant ships in
-`themes/`. The palette, the green-and-red cyberpunk direction, and the large
-majority of the 241 token rules originate there. Per its own README, the VS Code
-extension is itself a remake of an Atom theme of the same name by the same
-author.
+- <https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner>
 
-## What this fork changes
+They wrote it first for Atom, then rebuilt it for VS Code when Atom went away.
+That VS Code extension is what sits underneath everything in `themes/`. The
+green, the red, the decision that a code editor could look like a rain-soaked
+street at 2am and still be a place you get work done — all of that is theirs.
+So are most of the 241 token rules. I didn't invent this look. I found it, used
+it for months, and grew attached to it.
 
-- Contrast retuned across the palette for WCAG AA against the editor background.
-- Editor state colours (selection, find match, word highlight, hover) separated
-  by hue so overlapping states stay distinguishable.
-- Semantic highlighting enabled, with rules for `enumMember`,
-  `variable.constant`, and `variable.defaultLibrary`.
+If you like how Replicant looks, go install
+[the original](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
+and leave them a rating. That is the whole point of this file.
 
-## Licensing status — unresolved
+## What I actually did
 
-The upstream extension ships **no LICENSE file** and states no licence terms in
-its README, Marketplace listing, or `package.json`. Absent a licence grant, the
-original colour work remains under the author's exclusive copyright by default.
+I have tired eyes and long days, and there were a few places where punk-runner
+and I disagreed about brightness. So:
 
-Consequences:
+- I lifted or dimmed foregrounds until nothing sat below 4.5:1 against the
+  editor background — WCAG AA across the palette.
+- I pulled selection, find match, word highlight, and hover apart by hue, so
+  when two of them land on the same text you can still tell which is which.
+- I turned on semantic highlighting and gave `enumMember`, `variable.constant`,
+  and `variable.defaultLibrary` colours of their own.
 
-- **Private/local use of this fork is fine.**
-- **Publishing it to the Marketplace is not, until TheEdgesofBen grants
-  permission.** Ask first, in writing, and record the answer in this file.
+That's it. That's the fork. It's a tuning pass, not a redesign, and I tried hard
+to keep it sounding like the same instrument.
 
-The modifications listed above are offered by Romain Grossard under the MIT
-Licence, but that grant covers only the changes — it cannot and does not
-relicense the underlying work.
+— Sanchodelniglo
