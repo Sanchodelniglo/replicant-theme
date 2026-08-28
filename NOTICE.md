@@ -1,6 +1,6 @@
 # About this theme, and whose it really is
 
-Replicant is somebody else's theme with my fingerprints on it.
+Replicant Runner is somebody else's theme with my fingerprints on it.
 
 ## The theme this comes from
 
@@ -15,7 +15,7 @@ street at 2am and still be a place you get work done — all of that is theirs.
 So are most of the 241 token rules. I didn't invent this look. I found it, used
 it for months, and grew attached to it.
 
-If you like how Replicant looks, go install
+If you like how Replicant Runner looks, go install
 [the original](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
 and leave them a rating. That is the whole point of this file.
 

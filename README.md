@@ -1,6 +1,6 @@
-# Replicant
+# Replicant Runner Theme
 
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-v0.0.1-45c9a0?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-v0.1.1-45c9a0?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-45c9a0.svg?style=flat-square)](LICENSE)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanchodelniglo)
 
@@ -9,13 +9,13 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 > **This is a fork, not an original theme.** All the colour work is
 > [**punk-runner**](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
 > by **[TheEdgesofBen](https://marketplace.visualstudio.com/publishers/TheEdgesofBen)** —
-> originally an Atom theme, later ported to VS Code by the same author. Replicant
+> originally an Atom theme, later ported to VS Code by the same author. Replicant Runner
 > only retunes it for contrast. If you like how it looks, that's their eye, not mine.
 > See [NOTICE.md](NOTICE.md).
 
 ## Screenshot
 
-![Replicant](https://raw.githubusercontent.com/Sanchodelniglo/replicant-theme/main/screenshots/dark.png)
+![Replicant Runner](https://raw.githubusercontent.com/Sanchodelniglo/replicant-theme/main/screenshots/dark.png)
 
 ## What the retune changes
 
@@ -37,7 +37,7 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 git clone https://github.com/Sanchodelniglo/replicant-theme
 cd replicant-theme
 npx @vscode/vsce package
-code --install-extension replicant-theme-0.0.1.vsix
+code --install-extension replicant-theme-0.1.1.vsix
 ```
 
 ### Live-editing the theme
@@ -52,7 +52,7 @@ Theme JSON edits apply on save — no reload needed once the extension is loaded
 
 ## Activate
 
-`Cmd+K Cmd+T` → **Replicant - Dark**.
+`Cmd+K Cmd+T` → **Replicant Runner - Dark**.
 
 ## Credits
 
@@ -62,6 +62,6 @@ rules are theirs. Go install
 [the original](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
 and rate it.
 
-Replicant's retune work is MIT licensed — see [LICENSE](LICENSE). The upstream
+Replicant Runner's retune work is MIT licensed — see [LICENSE](LICENSE). The upstream
 theme it builds on ships no licence of its own; attribution and the full retune
 list live in [NOTICE.md](NOTICE.md).
