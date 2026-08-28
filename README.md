@@ -1,7 +1,6 @@
 # Replicant
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/sanchodelniglo.replicant-theme?style=flat-square&label=VS%20Code%20Marketplace&color=45c9a0)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/sanchodelniglo.replicant-theme?style=flat-square&color=1c3a34)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-v0.0.1-45c9a0?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-45c9a0.svg?style=flat-square)](LICENSE)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanchodelniglo)
 
