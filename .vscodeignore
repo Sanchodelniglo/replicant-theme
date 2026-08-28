@@ -1,0 +1,7 @@
+.vscode/**
+.github/**
+.gitignore
+.gitattributes
+vsc-extension-quickstart.md
+**/*.bak
+**/*.bak[0-9]

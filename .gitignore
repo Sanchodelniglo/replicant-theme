@@ -1,0 +1,4 @@
+node_modules
+*.vsix
+*.bak
+*.bak[0-9]

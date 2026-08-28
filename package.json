@@ -1,0 +1,47 @@
+{
+  "name": "punk-runner-v2-theme",
+  "displayName": "Punk Runner V2",
+  "publisher": "sanchodelniglo",
+  "author": "Romain Grossard",
+  "description": "Punk Runner, retuned for WCAG AA readability. A green-and-red cyberpunk dark theme with softened contrast and non-colliding editor state colors.",
+  "version": "0.3.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sanchodelniglo/punk-runner-v2-theme"
+  },
+  "homepage": "https://github.com/Sanchodelniglo/punk-runner-v2-theme",
+  "bugs": {
+    "url": "https://github.com/Sanchodelniglo/punk-runner-v2-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#0d1117",
+    "theme": "dark"
+  },
+  "keywords": [
+    "punk runner",
+    "cyberpunk",
+    "blade runner",
+    "theme",
+    "dark",
+    "green",
+    "red",
+    "accessible",
+    "wcag"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Punk Runner V2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/punk-runner-v2-color-theme.json"
+      }
+    ]
+  }
+}
