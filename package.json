@@ -16,6 +16,9 @@
     "type": "git",
     "url": "https://github.com/Sanchodelniglo/replicant-theme"
   },
+  "sponsor": {
+    "url": "https://ko-fi.com/sanchodelniglo"
+  },
   "homepage": "https://github.com/Sanchodelniglo/replicant-theme",
   "bugs": {
     "url": "https://github.com/Sanchodelniglo/replicant-theme/issues"

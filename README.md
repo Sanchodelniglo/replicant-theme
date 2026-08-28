@@ -1,5 +1,7 @@
 # Replicant
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanchodelniglo)
+
 A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for eight hours straight.
 
 > **This is a fork, not an original theme.** All the colour work is
