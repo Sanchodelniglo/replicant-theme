@@ -5,7 +5,7 @@
   "author": "Romain Grossard",
   "description": "Replicant is a retune of punk-runner by TheEdgesofBen for WCAG AA readability. Green-and-red cyberpunk dark theme with softened contrast and non-colliding editor state colors.",
   "version": "0.0.1",
-  "license": "SEE LICENSE IN NOTICE.md",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
   },
