@@ -20,7 +20,7 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 - **State colours de-collided** — selection, find match, word highlight, and hover highlight no longer share a hue, so overlapping states stay readable.
 - **Semantic highlighting enabled**, with explicit colours for `enumMember`, `variable.constant`, and `variable.defaultLibrary`.
 
-Ships in **two variants** — Dark (`#0d1a18`) and Light (`#d6f0eb`). The light
+Ships in **two variants** — Dark (`#0d1a18`) and Light (`#e1eedc`). The light
 variant is derived from the dark one in OKLab: lightness remapped through fixed
 anchors, hue preserved exactly, so it reads as the same theme rather than a
 separate one.
@@ -30,7 +30,7 @@ separate one.
 | Variant | Background | Min contrast | Median |
 |---------|------------|--------------|--------|
 | Dark    | `#0d1a18`  | 5.23:1       | 7.07:1 |
-| Light   | `#d6f0eb`  | 4.77:1       | 6.47:1 |
+| Light   | `#e1eedc`  | 4.76:1       | 6.45:1 |
 
 ## Install
 
