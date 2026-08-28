@@ -9,4 +9,8 @@
 
 ## [0.0.5]
 
-- Forked from `TheEdgesofBen.punk-runner`.
+- Forked from [`TheEdgesofBen.punk-runner`](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner) — original theme by TheEdgesofBen.
+
+---
+
+All versions derive from **punk-runner** by TheEdgesofBen. See [NOTICE.md](NOTICE.md).

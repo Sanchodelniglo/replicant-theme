@@ -1,6 +1,13 @@
 # Punk Runner V2
 
-A green-and-red cyberpunk dark theme for VS Code — [punk-runner](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner) by TheEdgesofBen, retuned for readability.
+A green-and-red cyberpunk dark theme for VS Code.
+
+> **This is a fork, not an original theme.** All the colour work is
+> [**punk-runner**](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
+> by **[TheEdgesofBen](https://marketplace.visualstudio.com/publishers/TheEdgesofBen)** —
+> originally an Atom theme, later ported to VS Code by the same author. This fork
+> only retunes it for contrast. If you like how it looks, that's their eye, not mine.
+> See [NOTICE.md](NOTICE.md).
 
 ## What changed vs. the original
 
@@ -37,4 +44,12 @@ Theme JSON edits apply on save — no reload needed once the extension is loaded
 
 ## Credits
 
-Derived from **punk-runner** by [TheEdgesofBen](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner). The upstream extension ships no LICENSE file — check with the original author before republishing this fork to the Marketplace.
+**punk-runner** by **[TheEdgesofBen](https://marketplace.visualstudio.com/publishers/TheEdgesofBen)** —
+the palette, the green-and-red cyberpunk direction, and most of the 241 token
+rules are theirs. Go install
+[the original](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
+and rate it.
+
+The upstream extension ships no LICENSE file, so this fork is **local use only**
+until the author grants permission to republish. Details and the retune list:
+[NOTICE.md](NOTICE.md).
