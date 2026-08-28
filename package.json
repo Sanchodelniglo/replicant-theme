@@ -23,6 +23,7 @@
   "bugs": {
     "url": "https://github.com/Sanchodelniglo/replicant-theme/issues"
   },
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#0d1117",
     "theme": "dark"

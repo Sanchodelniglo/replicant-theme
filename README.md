@@ -1,5 +1,7 @@
 # Replicant
 
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/sanchodelniglo.replicant-theme?style=flat-square&label=VS%20Code%20Marketplace&color=45c9a0)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/sanchodelniglo.replicant-theme?style=flat-square&color=1c3a34)](https://marketplace.visualstudio.com/items?itemName=sanchodelniglo.replicant-theme)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanchodelniglo)
 
 A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for eight hours straight.
@@ -20,6 +22,10 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 298 workbench colours, 241 token rules, 3 semantic token rules.
 
 ## Install
+
+### From the Marketplace
+
+`Cmd+P` → `ext install sanchodelniglo.replicant-theme`
 
 ### From source
 
