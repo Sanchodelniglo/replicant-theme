@@ -6,3 +6,4 @@ vsc-extension-quickstart.md
 **/*.bak
 **/*.bak[0-9]
 screenshots/**/*.rb
+.ruby-lsp/**
