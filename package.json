@@ -1,9 +1,9 @@
 {
-  "name": "punk-runner-v2-theme",
-  "displayName": "Punk Runner V2",
+  "name": "replicant-theme",
+  "displayName": "Replicant",
   "publisher": "sanchodelniglo",
   "author": "Romain Grossard",
-  "description": "A retune of punk-runner by TheEdgesofBen for WCAG AA readability. Green-and-red cyberpunk dark theme with softened contrast and non-colliding editor state colors.",
+  "description": "Replicant is a retune of punk-runner by TheEdgesofBen for WCAG AA readability. Green-and-red cyberpunk dark theme with softened contrast and non-colliding editor state colors.",
   "version": "0.3.0",
   "license": "SEE LICENSE IN NOTICE.md",
   "engines": {
@@ -14,20 +14,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sanchodelniglo/punk-runner-v2-theme"
+    "url": "https://github.com/Sanchodelniglo/replicant-theme"
   },
-  "homepage": "https://github.com/Sanchodelniglo/punk-runner-v2-theme",
+  "homepage": "https://github.com/Sanchodelniglo/replicant-theme",
   "bugs": {
-    "url": "https://github.com/Sanchodelniglo/punk-runner-v2-theme/issues"
+    "url": "https://github.com/Sanchodelniglo/replicant-theme/issues"
   },
   "galleryBanner": {
     "color": "#0d1117",
     "theme": "dark"
   },
   "keywords": [
-    "punk runner",
+    "replicant",
     "cyberpunk",
     "blade runner",
+    "punk runner",
     "theme",
     "dark",
     "green",
@@ -38,9 +39,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Punk Runner V2",
+        "label": "Replicant",
         "uiTheme": "vs-dark",
-        "path": "./themes/punk-runner-v2-color-theme.json"
+        "path": "./themes/replicant-color-theme.json"
       }
     ]
   }

@@ -1,13 +1,13 @@
 # Notice & attribution
 
-This extension is a **derivative work**. It is not an original theme.
+Replicant is a **derivative work**. It is not an original theme.
 
 ## Original
 
 **punk-runner** — by **TheEdgesofBen**
 <https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner>
 
-Version 0.0.5 of that extension is the direct ancestor of everything in
+Version 0.0.5 of that extension is the direct ancestor of everything Replicant ships in
 `themes/`. The palette, the green-and-red cyberpunk direction, and the large
 majority of the 241 token rules originate there. Per its own README, the VS Code
 extension is itself a remake of an Atom theme of the same name by the same

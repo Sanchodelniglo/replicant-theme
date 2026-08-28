@@ -1,17 +1,17 @@
-# Punk Runner V2
+# Replicant
 
-A green-and-red cyberpunk dark theme for VS Code.
+A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for eight hours straight.
 
 > **This is a fork, not an original theme.** All the colour work is
 > [**punk-runner**](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
 > by **[TheEdgesofBen](https://marketplace.visualstudio.com/publishers/TheEdgesofBen)** —
-> originally an Atom theme, later ported to VS Code by the same author. This fork
+> originally an Atom theme, later ported to VS Code by the same author. Replicant
 > only retunes it for contrast. If you like how it looks, that's their eye, not mine.
 > See [NOTICE.md](NOTICE.md).
 
-## What changed vs. the original
+## What the retune changes
 
-- **Contrast retuned for WCAG AA** — foregrounds lifted or dimmed against the editor background so no token pair sits below 4.5:1.
+- **Contrast raised to WCAG AA** — foregrounds lifted or dimmed against the editor background so no token pair sits below 4.5:1.
 - **State colours de-collided** — selection, find match, word highlight, and hover highlight no longer share a hue, so overlapping states stay readable.
 - **Semantic highlighting enabled**, with explicit colours for `enumMember`, `variable.constant`, and `variable.defaultLibrary`.
 
@@ -22,10 +22,10 @@ A green-and-red cyberpunk dark theme for VS Code.
 ### From source
 
 ```bash
-git clone https://github.com/Sanchodelniglo/punk-runner-v2-theme
-cd punk-runner-v2-theme
+git clone https://github.com/Sanchodelniglo/replicant-theme
+cd replicant-theme
 npx @vscode/vsce package
-code --install-extension punk-runner-v2-theme-0.3.0.vsix
+code --install-extension replicant-theme-0.3.0.vsix
 ```
 
 ### Live-editing the theme
@@ -33,14 +33,14 @@ code --install-extension punk-runner-v2-theme-0.3.0.vsix
 Symlink the repo into your extensions dir, then reload VS Code:
 
 ```bash
-ln -s "$PWD" ~/.vscode/extensions/punk-runner-v2-theme
+ln -s "$PWD" ~/.vscode/extensions/replicant-theme
 ```
 
 Theme JSON edits apply on save — no reload needed once the extension is loaded.
 
 ## Activate
 
-`Cmd+K Cmd+T` → **Punk Runner V2**.
+`Cmd+K Cmd+T` → **Replicant**.
 
 ## Credits
 
@@ -50,6 +50,6 @@ rules are theirs. Go install
 [the original](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
 and rate it.
 
-The upstream extension ships no LICENSE file, so this fork is **local use only**
+The upstream extension ships no LICENSE file, so Replicant is **local use only**
 until the author grants permission to republish. Details and the retune list:
 [NOTICE.md](NOTICE.md).

@@ -1,7 +1,8 @@
 # Changelog
 
-## [0.3.0]
+## [0.3.0] — renamed to Replicant
 
+- Renamed from "Punk Runner V2" to **Replicant**, to stop implying the original author shipped this.
 - Extracted the local dev build into a standalone extension repo.
 - Contrast retuned across the palette for WCAG AA.
 - Editor state colours (selection, find match, word highlight) separated so overlaps stay legible.
