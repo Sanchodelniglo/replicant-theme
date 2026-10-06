@@ -4,7 +4,7 @@
   "publisher": "sanchodelniglo",
   "author": "Romain Grossard",
   "description": "Replicant Runner is a retune of punk-runner by TheEdgesofBen for WCAG AA readability. Green-and-red cyberpunk theme, dark and light, with softened contrast and non-colliding editor state colors.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
