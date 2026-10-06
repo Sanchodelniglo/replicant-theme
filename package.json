@@ -3,7 +3,7 @@
   "displayName": "Replicant Runner Theme",
   "publisher": "sanchodelniglo",
   "author": "Romain Grossard",
-  "description": "Replicant Runner is a retune of punk-runner by TheEdgesofBen for WCAG AA readability. Green-and-red cyberpunk dark theme with softened contrast and non-colliding editor state colors.",
+  "description": "Replicant Runner is a retune of punk-runner by TheEdgesofBen for WCAG AA readability. Green-and-red cyberpunk theme, dark and light, with softened contrast and non-colliding editor state colors.",
   "version": "0.2.0",
   "license": "MIT",
   "engines": {
@@ -36,6 +36,7 @@
     "punk runner",
     "theme",
     "dark",
+    "light",
     "green",
     "red",
     "accessible",
@@ -47,6 +48,11 @@
         "label": "Replicant Runner",
         "uiTheme": "vs-dark",
         "path": "./themes/replicant-color-theme.json"
+      },
+      {
+        "label": "Replicant Runner Light",
+        "uiTheme": "vs",
+        "path": "./themes/replicant-light-color-theme.json"
       }
     ]
   }

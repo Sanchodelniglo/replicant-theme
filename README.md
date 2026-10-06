@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-45c9a0.svg?style=flat-square)](LICENSE)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanchodelniglo)
 
-A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for eight hours straight.
+A green-and-red cyberpunk theme for VS Code, in dark and light, tuned so you can read it for eight hours straight.
 
 > **This is a fork, not an original theme.** All the colour work is
 > [**punk-runner**](https://marketplace.visualstudio.com/items?itemName=TheEdgesofBen.punk-runner)
@@ -22,8 +22,9 @@ A green-and-red cyberpunk dark theme for VS Code, tuned so you can read it for e
 - **Contrast raised to WCAG AA** — foregrounds lifted or dimmed against the editor background so no token pair sits below 4.5:1.
 - **State colours de-collided** — selection, find match, word highlight, and hover highlight no longer share a hue, so overlapping states stay readable.
 - **Semantic highlighting enabled**, with explicit colours for `enumMember`, `variable.constant`, and `variable.defaultLibrary`.
+- **Light variant** — the aqua, coral and violet trio on warm cream paper, with amber for numbers and constants and cyan for regex and escapes. Every token sits between 4.5:1 and 11.5:1 against the editor background, and the state washes keep their hue and border logic.
 
-298 workbench colours, 241 token rules, 3 semantic token rules.
+403 workbench colours, 258 token rules, 3 semantic token rules, two variants.
 
 ## Install
 
@@ -52,7 +53,7 @@ Theme JSON edits apply on save — no reload needed once the extension is loaded
 
 ## Activate
 
-`Cmd+K Cmd+T` → **Replicant Runner - Dark**.
+`Cmd+K Cmd+T` → **Replicant Runner** (dark) or **Replicant Runner Light**.
 
 ## Credits
 
